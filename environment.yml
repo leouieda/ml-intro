@@ -1,0 +1,14 @@
+name: ml-intro
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.9
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - jupyterlab
